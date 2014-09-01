@@ -14,8 +14,8 @@ footer: false
 		{% unless page.no_header %}
 		<header class="page-header">
 			{% unless page.meta == false %}
-			<p class="meta text-muted text-uppercase">
-          {% include post/date.html %} {{ time }}{% if updated %} {{ updated }}{% endif %}
+			<p class="meta text-muted text-uppercase"> 
+          		{% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
 			</p>
 			{% endunless %}
 			{% if index %}

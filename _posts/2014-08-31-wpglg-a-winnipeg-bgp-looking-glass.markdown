@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WpgLG: A Winnipeg BGP Looking Glass"
+title: "WpgLG A Winnipeg BGP Looking Glass"
 date: 2014-08-31 21:34:15 -0500
 comments: false
 categories: 
