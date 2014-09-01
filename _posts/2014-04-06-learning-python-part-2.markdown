@@ -13,10 +13,10 @@ I've modified one of my python scripts to now use ConfigParser to read in a .cfg
 
 <!--more-->
 
-{% gist 10002632 %}
+{% gist tbaschak/10002632 %}
 
 The simplicity, built in functionality to do tons, easy extensibility, and the readability make Python a fabulous language!
 
 In my previous Learning Python blog post, I mentioned I was working with unifi-api, this is the output from that code:
 
-{% gist f60b1d589ddb008e3d49 %}
+{% gist tbaschak/f60b1d589ddb008e3d49 %}

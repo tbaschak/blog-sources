@@ -19,7 +19,7 @@ Luckily, the affects of the hijacking were not global for most prefixes, and no 
 
 The screenshot of the alert from [BGPmon.net](http://www.bgpmon.net/). Based on this, it would appear that reachability problems would have been limited to Thailand, and perhaps surrounding areas.
 
-{% img /images/as4761-hijack-notice.png %}
+<img src="/images/as4761-hijack-notice.png">
 
 From the various reports that came in on Twitter and NANOG, it seems that a maintenance window gone bad, and one un-filtered BGP upstream was the cause of the event. AS4651 (THAI-GATEWAY The Communications Authority of Thailand(CAT),TH) learned the 320-400k routes from their customer, Indosat, and then passed it on to the rest of their customers. One of their customers, Aware Corporation (also in Thailand), operates a BGPmon peermon node, and [was very helpful](http://mailman.nanog.org/pipermail/nanog/2014-April/065947.html) in providing much information, and pointing everyone in the right direction on NANOG.
 

@@ -20,7 +20,7 @@ I downed BGP with Shaw around 10am this morning. Connectivity into Shaw without 
 
 The Shaw issues were so widespread that [The Register](http://www.theregister.co.uk/2014/08/12/nationwide_outage_at_canadian_isp_shaw/) reported "Canadian ISP Shaw stumbles around internet with mystery 'routing' sickness".
 
-{% img /images/2014-08-12-shaw-outages.png %}
+<img src='/images/2014-08-12-shaw-outages.png'>
 
 (from [http://canadianoutages.com/status/shaw/map/](http://canadianoutages.com/status/shaw/map/))
 
@@ -30,11 +30,11 @@ I don't have a graph of the BGP updates from a Shaw peering session specifically
 
 Global BGP Routes:
 
-{% img /images/2014-08-12-bgp-routes.png %}
+<img src='/images/2014-08-12-bgp-routes.png'>
 
 BGP Updates:
 
-{% img /images/2014-08-12-bgp-update-spike.png %}
+<img src='/images/2014-08-12-bgp-update-spike.png'>
 
 You can see the spike of updates around the time that the routes hit 510k (where I was monitoring at least). This caused some routers to crash, and generally not operate as intended. Prefixes were withdrawn, and came back, and there was a lot of churn in the global routing table at this time. The other spikes of updates were a result of emergency unscheduled/un-coordinated changes to reboot and increase limits by numerous providers with affected equipment.
 

@@ -2,9 +2,8 @@
 layout: page
 title: "GitHub page example"
 date: 2013-11-19 20:25
-comments: true
-sharing: true
-footer: true
+comments: false
+sharing: false
 ---
 
 <!-- stolen and hacked from http://carlboettiger.info/software.html -->
