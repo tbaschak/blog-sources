@@ -1,0 +1,38 @@
+# Main
+deb http://debian.mirror.iweb.ca/debian/ wheezy main contrib
+deb-src http://debian.mirror.iweb.ca/debian/ wheezy main contrib
+
+deb http://ftp.ca.debian.org/debian/ wheezy main contrib
+deb-src http://ftp.ca.debian.org/debian/ wheezy main contrib
+
+deb http://debian.yorku.ca/debian/ wheezy main contrib
+deb http://debian.mirror.gtcomm.net/debian/ wheezy main contrib
+deb http://debian.savoirfairelinux.net/debian/ wheezy main contrib
+deb http://debian.ec.as6453.net/debian/ wheezy main contrib
+deb http://debian.mirror.netelligent.ca/debian/ wheezy main contrib
+deb http://mirror.csclub.uwaterloo.ca/debian/ wheezy main contrib
+deb http://mirror.steadfast.net/debian/ wheezy main contrib
+deb http://mirrors.gigenet.com/debian/ wheezy main contrib
+deb http://debian.mirror.constant.com/debian/ wheezy main contrib
+
+# Security
+deb http://security.debian.org/ wheezy/updates main
+deb-src http://security.debian.org/ wheezy/updates main
+
+# Wheezy-updates
+# wheezy-updates, previously known as 'volatile'
+deb http://ftp.ca.debian.org/debian/ wheezy-updates main
+deb-src http://ftp.ca.debian.org/debian/ wheezy-updates main
+
+# dotdeb
+deb http://packages.dotdeb.org wheezy all
+deb-src http://packages.dotdeb.org wheezy all
+
+# prosody
+deb http://packages.prosody.im/debian wheezy main
+
+#backports
+deb http://http.debian.net/debian wheezy-backports main
+
+#saltstack
+deb http://debian.saltstack.com/debian wheezy-saltstack main

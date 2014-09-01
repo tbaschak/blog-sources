@@ -1,0 +1,10 @@
+---
+layout: page
+title: "500 Internal Server Error"
+comments: false
+sharing: false
+footer: false
+---
+An Internal Server Error has occured handling your request.
+
+Meanwhile, you can try looking in the [Blog Archives](/blog/archives/) or using the search in the upper right corner to locate what you were looking for.

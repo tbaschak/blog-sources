@@ -1,0 +1,41 @@
+# ensure we have curl sudo vim-nox
+apt-get install curl sudo vim-nox
+
+# always use vim.nox
+update-alternatives --set editor /usr/bin/vim.nox
+update-alternatives --set vi /usr/bin/vim.nox
+update-alternatives --set vim /usr/bin/vim.nox
+
+# set up apt sources
+curl https://secure.ciscodude.net/txt/sources.list.txt > /etc/apt/sources.list
+
+# optionally add keys:
+# wget -O- https://prosody.im/files/prosody-debian-packages.key|apt-key add -
+# wget -O- http://www.dotdeb.org/dotdeb.gpg|apt-key add -
+
+# salt
+# add salt key & install salt-minion
+wget -O- http://debian.saltstack.com/debian-salt-team-joehealy.gpg.key|apt-key add -
+apt-get update
+apt-get install salt-minion
+echo 'master: dev.henchman21.net' > /etc/salt/minion.d/master.conf
+# edit the grains
+cat <<EOM > /etc/salt/grains
+roles:
+  - anycast
+  - aptcache
+  - development
+  - dns
+  - fileserver
+  - ftpserver
+  - monitoring
+  - primaryns
+  - slavens
+  - webserver
+  - xmpp
+  - etc
+deployment: 67prom
+EOM
+vi /etc/salt/grains
+service salt-minion restart
+
