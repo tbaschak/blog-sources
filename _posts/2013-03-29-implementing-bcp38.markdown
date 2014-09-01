@@ -8,7 +8,7 @@ categories:
 - ISP
 - System Administration
 ---
-Unless your network admin has had his/her head in sand hill for the past few years, filtering spoofed traffic from leaving one's own network is something that should be of concern. Luckily back in 2000 some NANOG members wrote up a spec, <a href="http://tools.ietf.org/html/rfc2827.html" target="_blank">RFC2827</a> which was adopted as <a href="http://tools.ietf.org/html/bcp38" target="_blank">BCP38</a>.
+Unless your network admin has had his/her head in sand hill for the past few years, filtering spoofed traffic from leaving one's own network is something that should be of concern. Luckily back in 2000 some NANOG members wrote up a spec, [RFC2827](http://tools.ietf.org/html/rfc2827.html) which was adopted as [BCP38](http://tools.ietf.org/html/bcp38).
 
 <!--more-->
 

@@ -11,6 +11,7 @@ categories:
 BGP is an awesome tool. There is many ways to accomplish the same result, all with their own pros and cons.
 
 One of those things is inbound redundancy. Remembering that with BGP you don't have direct control, but only influence over your inbound paths via BGP advertisements, there are a few ways to accomplish redundancy.
+
 <!--more-->
 
 *	Prepending one path to be longer than the other.

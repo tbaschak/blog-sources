@@ -9,7 +9,7 @@ categories:
 - IPv6
 - System Administration
 ---
-I was browsing some of the <a href="http://ipv6.he.net/certification/popular_postings.php" target="_blank">IPv6 related blog posts on HE.net</a>, and I came across <a href="http://warrenkwok.blogspot.hk/2013/01/greylisting-and-dual-stack-mail-servers.html" target="_blank">this interesting one</a> regarding greylisting.
+I was browsing some of the [IPv6 related blog posts on HE.net](http://ipv6.he.net/certification/popular_postings.php), and I came across [this interesting one](http://warrenkwok.blogspot.hk/2013/01/greylisting-and-dual-stack-mail-servers.html) regarding greylisting.
 
 <!--more-->
 

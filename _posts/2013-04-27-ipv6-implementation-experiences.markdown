@@ -12,7 +12,7 @@ categories:
 - BGP
 - System Administration
 ---
-I was browsing <a href="http://www.reddit.com/r/ipv6" target="_blank">reddit/r/ipv6</a> this morning and I felt like writing up my IPv6 implementation experiences. I've played with IPv6 over a tunnel ever since I got DSL back in June, 2001. At the time I was running a custom Linux firewall, and it was very easy to set up a tunnel and get a /64 going. There wasn't much content that was IPv6 at the time, just the dancing turtle on www.kame.net. My next experience IPv6 was when I moved to Winnipeg, I set up a FreeBSD box as an IPv6 tunnel host this time, and had a web server and mail server on IPv6 for a while until I moved apartments.
+I was browsing [/r/ipv6](http://www.reddit.com/r/ipv6) this morning and I felt like writing up my IPv6 implementation experiences. I've played with IPv6 over a tunnel ever since I got DSL back in June, 2001. At the time I was running a custom Linux firewall, and it was very easy to set up a tunnel and get a /64 going. There wasn't much content that was IPv6 at the time, just the dancing turtle on www.kame.net. My next experience IPv6 was when I moved to Winnipeg, I set up a FreeBSD box as an IPv6 tunnel host this time, and had a web server and mail server on IPv6 for a while until I moved apartments.
 
 <!--more-->
 

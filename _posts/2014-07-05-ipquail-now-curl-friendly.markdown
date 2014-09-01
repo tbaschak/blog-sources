@@ -16,7 +16,7 @@ I've always liked how the site [ifconfig.me](http://ifconfig.me) (down today it 
 
 <!--more-->
 
-```text UsingIPquail.com.txt
+```
 $ for i in www 4 6; do \
   echo -n "curl $i.ipquail.com => "
   curl $i.ipquail.com

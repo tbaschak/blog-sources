@@ -12,7 +12,7 @@ categories:
 ---
 Sometimes you get a short URL for something and would like to know where it goes before clicking on it. cURL can help you determine this. This can be done with the following one-liner:
 
-`curl -s -o /dev/null --head -w "%{url_effective}\n" -L "https://t.co/m8pJvfNDYw"`
+```curl -s -o /dev/null --head -w "%{url_effective}\n" -L "https://t.co/m8pJvfNDYw"```
 
 <!--more-->
 

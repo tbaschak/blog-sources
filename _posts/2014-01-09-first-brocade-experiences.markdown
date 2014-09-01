@@ -13,12 +13,12 @@ I used Brocade equipment for the first time this week. Coming from primarily Cis
 
 <!--more-->
 
-The particular switch model I was working with was the <a href="http://www.brocade.com/products/all/switches/product-details/icx-6430-and-6450-switches/index.page" target="_blank">Brocade ICX 6430-24P</a> switch. It had a base license, which is fairly comparible feature-wise with the Cisco Catalyst 2960S-24TS-L with the base license. Important items of feature set:
+The particular switch model I was working with was the [Brocade ICX 6430-24P](http://www.brocade.com/products/all/switches/product-details/icx-6430-and-6450-switches/index.page) switch. It had a base license, which is fairly comparible feature-wise with the Cisco Catalyst 2960S-24TS-L with the base license. Important items of feature set:
 
-*	layer 2 only,
-*	management vlan,
-*	default-gateway,
-*	no routing. 
+*	layer 2 only
+*	management vlan
+*	default-gateway
+*	no routing
 
 These switches are deployed as access layer switches, POE user facing ports with phones tagging VLAN. in Ciscoland the config snippet would look as follows:
 

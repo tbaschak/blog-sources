@@ -20,9 +20,7 @@ Install your system as you choose, I did a fairly default [install as per the FA
 
 The applicable configuration files:
 
-<code>/etc/rc.conf.local</code>
-
-```
+```text /etc/rc.conf.local
 ntpd_flags=             # enabled during install
 slowcgi_flags=
 nginx_flags=

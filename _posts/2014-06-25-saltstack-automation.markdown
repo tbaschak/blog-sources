@@ -37,7 +37,7 @@ Getting starting with SaltStack is really easy. Essentially the process is as fo
 *	On master
 	*	run <code>salt '*' test.ping</code>, you should get output like the following:
 
-```text SaltTestPing.txt
+```
 # salt '*.ciscodude.net' test.ping
 jake.ciscodude.net:
     True
@@ -52,7 +52,7 @@ dev.ciscodude.net:
 
 This is your basic salt-minion/master set up. You can run commands on the minion like follows:
 
-```text SaltGrainsWCmd.txt
+```
 # salt -G 'roles:*dns' cmd.run 'uname -a'
 jake.ciscodude.net:
     Linux jake 3.2.0-4-amd64 #1 SMP Debian 3.2.57-3+deb7u2 x86_64 GNU/Linux
@@ -82,7 +82,7 @@ for i in returns:
 
 Which, when run will give output like follows:
 
-```text info.uptime.py.txt
+```
 # ./info.uptime.py
 {'secure.ciscodude.net': ' 00:33:01 up 4 days,  1:09,  1 user,  load average: 0.00, 0.01, 0.05'}
 {'ns0.ciscodude.net': ' 00:32:54 up 4 days,  1:07,  0 users,  load average: 0.00, 0.01, 0.05'}

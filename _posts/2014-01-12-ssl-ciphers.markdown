@@ -8,7 +8,7 @@ categories:
 - Networking
 - System Administration
 ---
-The SSL/TLS Protocol versions, and Ciphers have never really been an item which people configured very tightly. Lately though, there are very valid reasons to ensure that SSL, where applied, has the best methods available to protect confidentiality/integrity. Sites such as <a href="https://www.ssllabs.com/ssltest/analyze.html?d=secure.ciscodude.net" target="_blank">ssllabs.com</a> can help test your webservers configurations. Weak ciphers give a false sense of security. There are attacks against SSL/TLS.
+The SSL/TLS Protocol versions, and Ciphers have never really been an item which people configured very tightly. Lately though, there are very valid reasons to ensure that SSL, where applied, has the best methods available to protect confidentiality/integrity. Sites such as [ssllabs.com](https://www.ssllabs.com/ssltest/analyze.html?d=secure.ciscodude.net) can help test your webservers configurations. Weak ciphers give a false sense of security. There are attacks against SSL/TLS.
 
 <!--more-->
 

@@ -14,7 +14,7 @@ I've often wondered if there is an easy way to generate ASCII network diagrams l
 
 ASCIIFlow is really simple to use, and lets you draw boxes, lines, and arrows (for network diagrams and flow charts) using your mouse right in the web browser. It also lets you save/open your text diagrams to/from Google Drive.
 
-```text SampleNetwork.txt
+```
 +-----+    +-----+    +-----+
 |Edge1|    |Edge2|    |Edge3|
 +--+--+    +--+--+    +--+--+

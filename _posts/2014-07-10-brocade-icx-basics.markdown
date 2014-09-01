@@ -93,5 +93,3 @@ Where this is different however is that ports are members of the default-vlan-id
 ### dual-mode
 
 Dual-mode is the term Brocade uses for what Cisco calls "switchport trunk native vlan xxx". This is used to direct un-tagged traffic into a specific VLAN. This is handy when you've got a phone and an end user on the same port.
-
-

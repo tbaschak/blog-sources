@@ -14,5 +14,6 @@ This afternoon I setup nginx to act as a pop3/imap/smtp proxy w/ SSL. During the
 
 <!--more-->
 
-<pre>openssl s_client -CAfile ca-certificates.crt -connect secure.ciscodude.net:995</pre>
-<a href="http://www.kutukupret.com/2012/08/31/nginx-as-imap4pop3-proxy-using-apache-as-auth-server-backend/" target="_blank">This</a> blog post from <a href="http://www.kutukupret.com" target="_blank">KutuKupret</a> was very helpful in the process.
+```openssl s_client -CAfile ca-certificates.crt -connect secure.ciscodude.net:995```
+
+[This](http://www.kutukupret.com/2012/08/31/nginx-as-imap4pop3-proxy-using-apache-as-auth-server-backend/) blog post from [KutuKupret](http://www.kutukupret.com) was very helpful in the process.

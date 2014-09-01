@@ -16,7 +16,7 @@ I've been running the free version of ESXi in my basement for years, and have be
 
 They have also posted a blog about how to [patch the latest 5.5u1 bundle](http://www.v-front.de/2014/06/new-esxi-55-patch-fixes-nfs-bug-and.html).
 
-```bash update_vmware55_host.sh
+```
 # open firewall for outgoing http requests:
 esxcli network firewall ruleset set -e true -r httpClient
 # Install the ESXi-5.5.0-20140604001-standard Imageprofile from the VMware Online depot

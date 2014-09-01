@@ -11,7 +11,7 @@ categories:
 - BGP
 - System Administration
 ---
-One of the really handy things that has been included in OpenBSD for quite some while, is a handy shell, and CGI BGP looking glass. Rather than copy and paste someone elses blog, I'll just <a href="http://www.knowledgebombs.net/blog/2012/12/13/bgplg-from-scratch.html" target="_blank">link the handy guide I followed</a>. This guide is complete, including explaining why ping/ping6/traceroute/traceroute6 don't work under /var in the chrooted environment.
+One of the really handy things that has been included in OpenBSD for quite some while, is a handy shell, and CGI BGP looking glass. Rather than copy and paste someone elses blog, I'll just [link the handy guide I followed](http://www.knowledgebombs.net/blog/2012/12/13/bgplg-from-scratch.html). This guide is complete, including explaining why ping/ping6/traceroute/traceroute6 don't work under /var in the chrooted environment.
 
 <!--more-->
 

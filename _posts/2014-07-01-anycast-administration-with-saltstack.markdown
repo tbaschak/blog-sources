@@ -19,7 +19,7 @@ I've been playing with SaltStack for a week or so now, and while I still haven't
 
 My process was originally log into each system over ssh, then git pull each web directory. My process is now to run the following command on my salt master:
 
-```text SaltAnyCastGitUpdate.txt
+```
 root@dev:~# salt -G roles:anycast cmd.run 'sh -c /home/theodore/gitupdate.sh'
 h-186.wpg167lom.henchman21.net:
     Already up-to-date.
