@@ -2,6 +2,7 @@
 layout: post
 title: "WpgLG: A Winnipeg BGP Looking Glass"
 date: 2014-08-31 21:34:15 -0500
+date_updated: 2014-09-02 15:52:15 -0500
 comments: false
 categories: 
 - Nerd Projects
@@ -26,3 +27,5 @@ Things I intend to do with GIXLG:
 	*	I am not 100% if mysql is the proper DB to have a running log of updates in, I am tempted by CouchDB
 
 Eventually I plan on running this as WpgLG, which will be a Winnipeg BGP Looking Glass.
+
+** Update 2014-09-02:** I've started hacking already on installation documentation, and some sample webserver configs in prep for this weekends all-night hackathon!
