@@ -5,6 +5,8 @@ comments: false
 sharing: true
 footer: false
 navbar: Presentations
+description: "Various presentations given on Internet Technology subject areas."
+keywords: "ipv6, bgp, cisco, brocade, routing, ospf, system administration, network administration, nagios, network monitoring, internet, large network administration, security, network security, internet security"
 ---
 Theo has given talks on large network challenges from security to IPv6, to various user groups and conferences. Some presentations archived online include:
 

@@ -4,6 +4,8 @@ title: "You Have Landed at CiscoDude.net"
 comments: false
 sharing: false
 footer: false
+description: "An Internet Technology themed blog. IPv6, BGP, and System Administration are popular topics."
+keywords: "ipv6, bgp, cisco, brocade, routing, ospf, system administration, network administration, nagios, network monitoring, internet"
 ---
 <div class="blog-index" itemscope itemtype="http://schema.org/Blog">
 	{% assign index = true %}

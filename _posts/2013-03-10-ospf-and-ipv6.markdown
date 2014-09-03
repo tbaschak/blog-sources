@@ -14,7 +14,9 @@ Having recently setup BGP for a new IPv6 space, I wanted to make sure that IPv6 
 <!--more-->
 
 The important commands are as follows:
-<pre>ipv6 unicast-routing
+
+```
+ipv6 unicast-routing
 
 ipv6 router ospf 6
  router-id xx.xxx.xxx.xx
@@ -32,8 +34,7 @@ ipv6 access-list secure6_ssh
 
 line vty 5 15
  ipv6 access-class secure6_ssh in
-
-</pre>
+```
 
 This sets up an interface for OSPF, setup up an ACL for secure ssh access over IPv6, and sets up IPv6 OSPF routing process ID 6. It is a good idea to specify a router-id, because if your router has no IPv4 addresses it will not be able to pick a router-id and never form adjacencies.
 
