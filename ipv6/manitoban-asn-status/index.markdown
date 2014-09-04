@@ -5,6 +5,7 @@ comments: false
 sharing: true
 footer: false
 navbar: IPv6
+description: "Current status foday for all ASNs I could find that operate in Manitoba, or are Manitoban Companies."
 ---
 Below is the status today for all ASNs I could find that operate in Manitoba, or are Manitoban Companies. I check the status of each ASN fairly often and update things as they change. Please [Contact Me](/contact/) if you have any updates.
 

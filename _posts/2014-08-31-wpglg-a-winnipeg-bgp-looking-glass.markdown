@@ -2,7 +2,7 @@
 layout: post
 title: "WpgLG: A Winnipeg BGP Looking Glass"
 date: 2014-08-31 21:34:15 -0500
-date_updated: 2014-09-02 15:52:15 -0500
+description: "I've forked GIXLG on Github, and I intend to spend my spare time hacking at it. Eventually, once I get my own ASN, I will peer with both local Internet Exchanges, and gather Winnipeg based BGP stats."
 comments: false
 categories: 
 - Nerd Projects
@@ -14,7 +14,7 @@ categories:
 - CLI
 - Programming
 ---
-I've forked [GIXLG](https://github.com/dpiekacz/GIXLG) on github, and I intend to spend my spare time hacking at it. Eventually, once I get my own ASN, I will peer with both local Internet Exchanges, and gather Winnipeg based BGP stats.
+I've forked [GIXLG](https://github.com/dpiekacz/GIXLG) on Github, and I intend to spend my spare time hacking at it. Eventually, once I get my own ASN, I will peer with both local Internet Exchanges, and gather Winnipeg based BGP stats.
 
 <!--more-->
 

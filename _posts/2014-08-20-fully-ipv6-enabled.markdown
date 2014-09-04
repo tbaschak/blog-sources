@@ -2,6 +2,7 @@
 layout: post
 title: "Fully IPv6 Enabled"
 date: 2014-08-20 14:23:28 -0500
+description: "With the deployment of a new nameserver at DigitalOcean NYC3 yesterday, I have hit a fairly significant personal milestone -- All of my public facing services are now fully IPv6 enabled."
 comments: false
 categories: 
 - Nerd Projects
