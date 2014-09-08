@@ -24,7 +24,7 @@ Things I intend to do with GIXLG:
 
 *	improve installation documentation
 *	hack on collector.py to log updates to a separate updates table for archiving
-	*	I am not 100% if mysql is the proper DB to have a running log of updates in, I am tempted by CouchDB
+	*	I am not 100% sure if mysql is the proper DB to have a running log of updates in, I am tempted by CouchDB
 
 Eventually I plan on running this as WpgLG, which will be a Winnipeg BGP Looking Glass.
 
