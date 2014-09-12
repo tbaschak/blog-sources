@@ -39,7 +39,7 @@ ASN | Name | v4 / v6 | BGP | PeeringDB
 [AS16796](http://bgp.he.net/AS16796) | MERLIN | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS16796](http://as16796.peeringdb.com/)
 [AS17001](http://bgp.he.net/AS17001) | University of Manitoba | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS17001](http://as17001.peeringdb.com/)
 [AS18451](http://bgp.he.net/AS18451) | LES.net | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS18451](http://as18451.peeringdb.com/)
-[AS18472](http://bgp.he.net/AS18472) | Canadian Museum for Human Rights | {% img /images/nov4.png %} {% img /images/nov6.png %} | inactive | [AS18472](http://as18472.peeringdb.com/)
+[AS18472](http://bgp.he.net/AS18472) | Canadian Museum for Human Rights | {% img /images/v4.png %} {% img /images/nov6.png %} | active | [AS18472](http://as18472.peeringdb.com/)
 [AS18588](http://bgp.he.net/AS18588) | Postmedia Network | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS18588](http://as18588.peeringdb.com/)
 [AS19016](http://bgp.he.net/AS19016) | Westman Communications | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS19016](http://as19016.peeringdb.com/)
 [AS19053](http://bgp.he.net/AS19053) | Epic Information Solutions | {% img /images/v4.png %} {% img /images/nov6.png %} | active | [AS19053](http://as19053.peeringdb.com/)
@@ -83,6 +83,8 @@ ASN | Name | v4 / v6 | BGP | PeeringDB
 *	IPv6 Allocation Advertised: 17 or 34%
 
 ### Update History
+
+**2014-09-11:** AS18472 now advertising its own V4 (instead of AS15290)
 
 **2014-07-31:** AS393523 now advertising V4/V6
 
