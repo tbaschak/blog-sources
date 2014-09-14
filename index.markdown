@@ -52,35 +52,4 @@ keywords: "ipv6, bgp, cisco, brocade, routing, ospf, system administration, netw
 
 <hr>
 
-<p>
-	Some things here:
-	<span class="categories">
-		<a class='category label label-primary' href="/blog/" itemprop="url">Latest Blogs</a>
-		<a class='category label label-primary' href="/blog/archives/" itemprop="url">Blog Archives</a>
-		<a class='category label label-primary' href="/ipv6/" itemprop="url">IPv6</a>
-		<a class='category label label-primary' href="/ipv6/manitoban-asn-status/" itemprop="url">Manitoban ASN IPv6 Status</a>
-		<a class='category label label-primary' href="/about/" itemprop="url">About</a>
-		<a class='category label label-primary' href="/presentations/" itemprop="url">Presentations</a>
-		<a class='category label label-primary' href="/blogroll/" itemprop="url">Blog Roll</a>
-		<a class='category label label-primary' href="/contact/" itemprop="url">Contact</a>
-		<a class='category label label-primary' href="/atom.xml" itemprop="url">Feed (atom.xml)</a>
-	</span>
-</p>
-
-<p>
-	Related things, which are not here:
-	<span class="categories">
-		<a class='category label label-primary' href="https://theodorebaschak.com" itemprop="url">TheodoreBaschak.com</a>
-		<a class='category label label-primary' href="http://ipquail.com" itemprop="url">IP Quail</a>
-		<a class='category label label-primary' href="http://hextet.ca" itemprop="url">Hextet Systems</a>
-		<a class='category label label-primary' href="https://henchman21.net" itemprop="url">Henchman 21</a>
-		<a class='category label label-primary' href="https://github.com/tbaschak" itemprop="url">github.com/tbaschak</a>
-		<a class='category label label-primary' href="http://tbaschak.github.io" itemprop="url">tbaschak.github.io</a>
-	</span>
-</p>
-
-<hr>
-
-<b>Thank you for visiting CiscoDude Networks.</b>
-
 </div>

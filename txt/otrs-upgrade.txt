@@ -1,11 +1,11 @@
 cd /opt
-wget http://ftp.otrs.org/pub/otrs/otrs-3.3.8.tar.gz
-tar xzf otrs-3.3.8.tar.gz 
+wget http://ftp.otrs.org/pub/otrs/otrs-3.3.9.tar.gz
+tar xzf otrs-3.3.9.tar.gz 
 /etc/init.d/cron stop
 /etc/init.d/apache2 stop
 cd /opt/otrs
 /opt/otrs/scripts/backup.pl -d /backup
-cd ../otrs-3.3.8
+cd ../otrs-3.3.9
 cp -r * ../otrs/
 cd ../otrs
 /opt/otrs/bin/otrs.CheckModules.pl
