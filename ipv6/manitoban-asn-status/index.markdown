@@ -20,20 +20,29 @@ Icon | Meaning
 {% img /images/v6.png %} | IPv6 advertisement(s)
 {% img /images/nov6.png %} | IPv6 allocated but not advertised
 
-### ASN Status Table
+## ASN Status Table
+
+### National/International Carriers Operating in MB
 
 ASN | Name | v4 / v6 | BGP | PeeringDB
 --- | ---- | ------- | --- | ---------
 [AS6327](http://bgp.he.net/AS6327) | Shaw Communications | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS6327](http://as6327.peeringdb.com/)
-[AS6539](http://bgp.he.net/AS6539) | Bell (Old Group Telecom AS) | {% img /images/v4.png %} | active | [AS6539](http://as6539.peeringdb.com/)
-[AS7122](http://bgp.he.net/AS7122) | MTS Allstream Inc (Former MTS AS) | {% img /images/v4.png %} | active | [AS7122](http://as7122.peeringdb.com/)
+[AS6539](http://bgp.he.net/AS6539) | Bell/Group Telecom | {% img /images/v4.png %} | active | [AS6539](http://as6539.peeringdb.com/)
+[AS6939](http://bgp.he.net/AS6939) | Hurricane Electric | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS6939](http://as6939.peeringdb.com/)
+[AS15290](http://bgp.he.net/AS15290) | MTS Allstream | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS15290](http://as15290.peeringdb.com/)
+[AS20161](http://bgp.he.net/AS20161) | TeraGo | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS20161](http://as20161.peeringdb.com/)
+
+### Manitoban ASNs
+
+ASN | Name | v4 / v6 | BGP | PeeringDB
+--- | ---- | ------- | --- | ---------
 [AS7442](http://bgp.he.net/AS7442) | Federated Insurance Company of Canada | {% img /images/v4.png %} | active | [AS7442](http://as7442.peeringdb.com/)
 [AS10965](http://bgp.he.net/AS10965) | MRNET | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS10965](http://as10965.peeringdb.com/)
 [AS14268](http://bgp.he.net/AS14268) | Northern Computer Solutions | {% img /images/v4.png %} | active | [AS14268](http://as14268.peeringdb.com/)
 [AS14338](http://bgp.he.net/AS14338) | KORE Wireless | {% img /images/v4.png %} | active | [AS14338](http://as14338.peeringdb.com/)
 [AS14866](http://bgp.he.net/AS14866) | VOI Networks | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS14866](http://as14866.peeringdb.com/)
 [AS15102](http://bgp.he.net/AS15102) | Wiband Communications | {% img /images/v4.png %} {% img /images/nov6.png %} | active | [AS15102](http://as15102.peeringdb.com/)
-[AS15290](http://bgp.he.net/AS15290) | Allstream | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS15290](http://as15290.peeringdb.com/)
+[AS15290](http://bgp.he.net/AS15290) | MTS Allstream | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS15290](http://as15290.peeringdb.com/)
 [AS16395](http://bgp.he.net/AS16395) | Manitoba Internet Exchange | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS16395](http://as16395.peeringdb.com/)
 [AS16543](http://bgp.he.net/AS16543) | Gate West Communications | {% img /images/v4.png %} | active | [AS16543](http://as16543.peeringdb.com/)
 [AS16796](http://bgp.he.net/AS16796) | MERLIN | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS16796](http://as16796.peeringdb.com/)
@@ -42,10 +51,12 @@ ASN | Name | v4 / v6 | BGP | PeeringDB
 [AS18472](http://bgp.he.net/AS18472) | Canadian Museum for Human Rights | {% img /images/v4.png %} {% img /images/nov6.png %} | active | [AS18472](http://as18472.peeringdb.com/)
 [AS18588](http://bgp.he.net/AS18588) | Postmedia Network | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS18588](http://as18588.peeringdb.com/)
 [AS19016](http://bgp.he.net/AS19016) | Westman Communications | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS19016](http://as19016.peeringdb.com/)
+[AS19041](http://bgp.he.net/AS19041) | Manitoba Hydro International | | inactive | [AS19041](http://as19041.peeringdb.com/)
 [AS19053](http://bgp.he.net/AS19053) | Epic Information Solutions | {% img /images/v4.png %} {% img /images/nov6.png %} | active | [AS19053](http://as19053.peeringdb.com/)
-[AS20161](http://bgp.he.net/AS20161) | TeraGo | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS20161](http://as20161.peeringdb.com/)
+[AS20273](http://bgp.he.net/AS20273) | Prairie Communications Ltd | | inactive | [AS20273](http://as20273.peeringdb.com/)
 [AS21671](http://bgp.he.net/AS21671) | Manitoba Hydro | {% img /images/v4.png %} | active | [AS21671](http://as21671.peeringdb.com/)
 [AS21774](http://bgp.he.net/AS21774) | Global Server Center | {% img /images/v4.png %} {% img /images/nov6.png %} | active | [AS21774](http://as21774.peeringdb.com/)
+[AS21876](http://bgp.he.net/AS21876) | HED Insurance and Risk Services | {% img /images/v4.png %} | active | [AS21876](http://as21876.peeringdb.com/)
 [AS22165](http://bgp.he.net/AS22165) | Ducks Unlimited | | inactive | [AS22165](http://as22165.peeringdb.com/)
 [AS22839](http://bgp.he.net/AS22839) | Standard Aero | {% img /images/v4.png %} | active | [AS22839](http://as22839.peeringdb.com/)
 [AS23001](http://bgp.he.net/AS23001) | Ultimate Internet Corp | {% img /images/v4.png %} | active | [AS23001](http://as23001.peeringdb.com/)
@@ -61,6 +72,7 @@ ASN | Name | v4 / v6 | BGP | PeeringDB
 [AS32584](http://bgp.he.net/AS32584) | I-Net Link Wireless | {% img /images/v4.png %} | active | [AS32584](http://as32584.peeringdb.com/)
 [AS32773](http://bgp.he.net/AS32773) | Commstream Communications | {% img /images/v4.png %} | active | [AS32773](http://as32773.peeringdb.com/)
 [AS46300](http://bgp.he.net/AS46300) | High Speed Crow | {% img /images/v4.png %} | active | [AS46300](http://as46300.peeringdb.com/)
+[AS46920](http://bgp.he.net/AS46920) | RF Now Inc | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS46920](http://as46920.peeringdb.com/)
 [AS54454](http://bgp.he.net/AS54454) | NoLimits Internet Solutions | {% img /images/v4.png %} | active | [AS54454](http://as54454.peeringdb.com/)
 [AS54899](http://bgp.he.net/AS54899) | Voyageur Internet | {% img /images/nov4.png %} | inactive | [AS54899](http://as54899.peeringdb.com/)
 [AS54937](http://bgp.he.net/AS54937) | MacDon Industries | {% img /images/v4.png %} | active | [AS54937](http://as54937.peeringdb.com/)
@@ -70,6 +82,7 @@ ASN | Name | v4 / v6 | BGP | PeeringDB
 [AS62752](http://bgp.he.net/AS62752) | Adam Thompson | {% img /images/v4.png %} {% img /images/v6.png %} | active | [AS62752](http://as62752.peeringdb.com/)
 [AS62758](http://bgp.he.net/AS62758) | MFNERC | {% img /images/v4.png %} | active | [AS62758](http://as62758.peeringdb.com/)
 [AS62770](http://bgp.he.net/AS62770) | Manitoba Public Insurance | {% img /images/v4.png %} | active | [AS62770](http://as62770.peeringdb.com/)
+[AS62846](http://bgp.he.net/AS62846) | Reimer World Corp | {% img /images/v4.png %} | active | [AS62846](http://as62846.peeringdb.com/)
 [AS62962](http://bgp.he.net/AS62962) | HyLife | {% img /images/v4.png %} | active | [AS62962](http://as62962.peeringdb.com/)
 [AS393431](http://bgp.he.net/AS393431) | Rogers West Consulting | {% img /images/v6.png %} | active | [AS393431](http://as393431.peeringdb.com/)
 [AS393445](http://bgp.he.net/AS393445) | Swift High Speed | | inactive | [AS393445](http://as393445.peeringdb.com/)
@@ -77,12 +90,14 @@ ASN | Name | v4 / v6 | BGP | PeeringDB
 
 ### Statistics
 
-*	Total ASNs: 50
+*	Total ASNs: 51
 *	IPv4 only: 23 or 46%
-*	IPv6 Allocation: 22 or 44%
-*	IPv6 Allocation Advertised: 17 or 34%
+*	IPv6 Allocation: 21 or 42%
+*	IPv6 Allocation Advertised: 16 or 33%
 
 ### Update History
+
+**2014-09-19:** Added AS19041, AS20273, AS21876, AS46920, AS62846
 
 **2014-09-11:** AS18472 now advertising its own V4 (instead of AS15290)
 
